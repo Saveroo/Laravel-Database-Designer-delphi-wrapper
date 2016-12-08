@@ -1,2 +1,2 @@
 # Laravel-Database-Designer-delphi-wrapper
-FireUI wrapper
+Only a FireUI browser wrapper of http://biodesignrealworld.github.io/LaravelDatabaseDesigner/
